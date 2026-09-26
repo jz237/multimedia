@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "about": "Jez237 multimedia videos. Large masters are served from this repo via GitHub Pages; each one also has a watch page in the jez237.com screening room.",
+  "site": "https://jez237.com/multimedia/",
+  "videos": [
+    {
+      "slug": "port-richmond-title-loop",
+      "reel": 1,
+      "title": "Port Richmond — Title Screen Loop",
+      "kind": "Game capture",
+      "date": "2026-09-26",
+      "duration": "3:33",
+      "resolution": "1920x1080",
+      "fps": 30,
+      "video": "port-richmond-title-loop/port-richmond-title-loop-1080p.mp4",
+      "poster": "port-richmond-title-loop/poster.jpg",
+      "thumb": "port-richmond-title-loop/thumb.webp",
+      "watch": "https://jez237.com/multimedia/port-richmond-title-loop/",
+      "summary": "One slow lap around a real Port Richmond block in the UE5 zombie game: down Witte, right on E Pacific, right on Janney, right on E Venango. Game audio, captured frame-locked from the engine."
+    }
+  ]
+}
