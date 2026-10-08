@@ -14,7 +14,7 @@ Videos from the lab: game captures, AI films and renders. The full-resolution ma
 
 ## Adding a video
 
-1. Make a folder named `<slug>/` holding `<slug>-1080p.mp4` (H.264 + AAC, `+faststart`, **under 100 MB**, which is GitHub's per-file limit), `poster.jpg` (16:9), `thumb.webp` (960Ã—540) and `og.jpg` (1200Ã—630).
+1. Make a folder named `<slug>/` holding `<slug>-1080p.mp4` (H.264 + AAC, `+faststart`, **under 100 MB**, which is GitHub's per-file limit), `poster.jpg` (16:9), `thumb.webp` (960×540) and `og.jpg` (1200×630).
 2. Add an entry to `catalog.json` and a row to the table above.
 3. On jez237.com, add a reel card to `multimedia/index.html` and a watch page at `multimedia/<slug>/`. Keep a lite copy under 25 MiB there if you want link previews to play inline, because that is Cloudflare Pages' per-file limit.
 
