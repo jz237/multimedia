@@ -1,0 +1,34 @@
+name: Deploy multimedia catalog and legacy URLs
+on:
+  push:
+    branches: [main]
+    paths-ignore: [README.md]
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: false
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/configure-pages@v6
+      - name: Prepare static payload
+        run: |
+          mkdir _site
+          cp index.html catalog.json .nojekyll _site/
+          cp -r port-richmond-* _site/
+          python3 scripts/restore_legacy_media.py _site
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: _site
+          retention-days: 1
+      - uses: actions/deploy-pages@v5
+        id: deployment

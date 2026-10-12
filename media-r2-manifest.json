@@ -1,0 +1,55 @@
+{
+  "schema": 1,
+  "publicBase": "https://media.jez237.com/",
+  "objects": [
+    {
+      "path": "port-richmond-aramingo-walk/port-richmond-aramingo-walk-b13-1080p.mp4",
+      "size": 94184243,
+      "sha256": "b711c573a73d694ecf8e6da5b970c3e237c54c88d255703d935ee5c55eaac289",
+      "key": "multimedia/port-richmond-aramingo-walk/port-richmond-aramingo-walk-b13-1080p.mp4",
+      "url": "https://media.jez237.com/multimedia/port-richmond-aramingo-walk/port-richmond-aramingo-walk-b13-1080p.mp4"
+    },
+    {
+      "path": "port-richmond-castor-terminal-walk/port-richmond-castor-terminal-walk-b13-1080p.mp4",
+      "size": 91072246,
+      "sha256": "da2765a7715240143b483c061bfd11cca9a29874c9cdb6216909e856adfedb2a",
+      "key": "multimedia/port-richmond-castor-terminal-walk/port-richmond-castor-terminal-walk-b13-1080p.mp4",
+      "url": "https://media.jez237.com/multimedia/port-richmond-castor-terminal-walk/port-richmond-castor-terminal-walk-b13-1080p.mp4"
+    },
+    {
+      "path": "port-richmond-el-kensington-walk/port-richmond-el-kensington-walk-b13-1080p.mp4",
+      "size": 83488138,
+      "sha256": "e4fc69b7ad8e1585714dc315ae8e236c1089bda3b2f196d22767e1b31e1556b2",
+      "key": "multimedia/port-richmond-el-kensington-walk/port-richmond-el-kensington-walk-b13-1080p.mp4",
+      "url": "https://media.jez237.com/multimedia/port-richmond-el-kensington-walk/port-richmond-el-kensington-walk-b13-1080p.mp4"
+    },
+    {
+      "path": "port-richmond-frankford-rec-walk/port-richmond-frankford-rec-walk-b13-1080p.mp4",
+      "size": 98325122,
+      "sha256": "f92b339d04b55d05169266f43ff4a9c268880aa05b80f8dd64a5ae0eccd8b6b4",
+      "key": "multimedia/port-richmond-frankford-rec-walk/port-richmond-frankford-rec-walk-b13-1080p.mp4",
+      "url": "https://media.jez237.com/multimedia/port-richmond-frankford-rec-walk/port-richmond-frankford-rec-walk-b13-1080p.mp4"
+    },
+    {
+      "path": "port-richmond-rowhomes-joyce-walk/port-richmond-rowhomes-joyce-walk-b13-1080p.mp4",
+      "size": 98546675,
+      "sha256": "5bf42646b2a2c42817ff3efd1b799a9065ac0e178c1a2e8c2d8c9b6c9d2c03b1",
+      "key": "multimedia/port-richmond-rowhomes-joyce-walk/port-richmond-rowhomes-joyce-walk-b13-1080p.mp4",
+      "url": "https://media.jez237.com/multimedia/port-richmond-rowhomes-joyce-walk/port-richmond-rowhomes-joyce-walk-b13-1080p.mp4"
+    },
+    {
+      "path": "port-richmond-title-loop/port-richmond-title-loop-b10-1080p.mp4",
+      "size": 95028567,
+      "sha256": "d0e735601142cf2cdacf56e9c4357719298fa24eb047f59a5e87faf17b71a380",
+      "key": "multimedia/port-richmond-title-loop/port-richmond-title-loop-b10-1080p.mp4",
+      "url": "https://media.jez237.com/multimedia/port-richmond-title-loop/port-richmond-title-loop-b10-1080p.mp4"
+    },
+    {
+      "path": "port-richmond-weikel-tulip-walk/port-richmond-weikel-tulip-walk-b13-1080p.mp4",
+      "size": 95645787,
+      "sha256": "3b82329b0b1bc211e47a644ddb082657a012cc1cea82d7b88f08df7e7bdd9623",
+      "key": "multimedia/port-richmond-weikel-tulip-walk/port-richmond-weikel-tulip-walk-b13-1080p.mp4",
+      "url": "https://media.jez237.com/multimedia/port-richmond-weikel-tulip-walk/port-richmond-weikel-tulip-walk-b13-1080p.mp4"
+    }
+  ]
+}
