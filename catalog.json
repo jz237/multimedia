@@ -4,6 +4,22 @@
   "site": "https://jez237.com/multimedia/",
   "videos": [
     {
+      "slug": "limelight-escape-velocity",
+      "reel": 8,
+      "title": "Rush — Limelight · Escape Velocity",
+      "kind": "Animated music video",
+      "date": "2026-11-17",
+      "duration": "4:21",
+      "duration_seconds": 261.041667,
+      "resolution": "1920x1080",
+      "fps": 48,
+      "video": "https://media.jez237.com/multimedia/limelight-escape-velocity/limelight-escape-velocity-1080p.mp4",
+      "poster": "limelight-escape-velocity/poster.jpg",
+      "thumb": "limelight-escape-velocity/thumb.webp",
+      "watch": "https://jez237.com/multimedia/limelight-escape-velocity/",
+      "summary": "A robot trio plays Rush’s Limelight beneath a mechanical iris. During the solo, the performer breaks into a flock of 150 birds."
+    },
+    {
       "slug": "port-richmond-title-loop",
       "reel": 1,
       "title": "Port Richmond — Witte Street",
