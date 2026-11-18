@@ -4,7 +4,7 @@ Videos from the lab: game captures, AI films and renders. The full-resolution ma
 
 | Reel | Video | Details | Watch |
 |---|---|---|---|
-| 08 | **Rush — Limelight · The Glass Audience** | 4:21 · 1080p48 · 2026-11-17 | [screening room](https://jez237.com/multimedia/limelight-escape-velocity/) · [MP4](https://media.jez237.com/multimedia/limelight-escape-velocity/limelight-glass-audience-1080p.mp4) |
+| 08 | **Rush — Limelight · The Glass Audience (performance cut)** | 4:21 · 1080p48 · 2026-11-17 | [screening room](https://jez237.com/multimedia/limelight-escape-velocity/) · [MP4](https://media.jez237.com/multimedia/limelight-escape-velocity/limelight-glass-performance-1080p.mp4) |
 | 01 | **Port Richmond — Witte Street** | 3:31 · 1080p30 · 2026-10-10 | [screening room](https://jez237.com/multimedia/port-richmond-title-loop/) · [MP4](https://media.jez237.com/multimedia/port-richmond-title-loop/port-richmond-title-loop-b10-1080p.mp4) |
 | 02 | **Port Richmond — Aramingo Avenue** | 3:29 · 1080p30 · 2026-10-10 | [screening room](https://jez237.com/multimedia/port-richmond-aramingo-walk/) · [MP4](https://media.jez237.com/multimedia/port-richmond-aramingo-walk/port-richmond-aramingo-walk-b13-1080p.mp4) |
 | 03 | **Port Richmond — Castor Terminal** | 3:23 · 1080p30 · 2026-10-10 | [screening room](https://jez237.com/multimedia/port-richmond-castor-terminal-walk/) · [MP4](https://media.jez237.com/multimedia/port-richmond-castor-terminal-walk/port-richmond-castor-terminal-walk-b13-1080p.mp4) |
