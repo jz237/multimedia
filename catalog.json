@@ -4,6 +4,22 @@
   "site": "https://jez237.com/multimedia/",
   "videos": [
     {
+      "slug": "limelight-neil-peart",
+      "reel": 9,
+      "title": "Rush — Limelight · The Light He Left",
+      "kind": "Animated memorial to Neil Peart",
+      "date": "2026-11-17",
+      "duration": "4:21",
+      "duration_seconds": 261.041667,
+      "resolution": "2560x1440",
+      "fps": 48,
+      "video": "https://media.jez237.com/multimedia/limelight-neil-peart/limelight-the-light-he-left-1440p.mp4",
+      "poster": "limelight-neil-peart/poster.jpg",
+      "thumb": "limelight-neil-peart/thumb.webp",
+      "watch": "https://jez237.com/multimedia/limelight-neil-peart/",
+      "summary": "A pair of sticks rests on an empty drum throne. As Rush plays “Limelight,” Neil Peart’s fills bring the kit to life. Two engraved portraits, a notebook and an open road recall the person behind the drums."
+    },
+    {
       "slug": "limelight-escape-velocity",
       "reel": 8,
       "title": "Rush — Limelight · The Iris Machine",

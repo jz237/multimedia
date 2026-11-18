@@ -4,6 +4,7 @@ Videos from the lab: game captures, AI films and renders. The full-resolution ma
 
 | Reel | Video | Details | Watch |
 |---|---|---|---|
+| 09 | **Rush — Limelight · The Light He Left** | For Neil Peart · 4:21 · 1440p48 · 2026-11-17 | [screening room](https://jez237.com/multimedia/limelight-neil-peart/) · [MP4](https://media.jez237.com/multimedia/limelight-neil-peart/limelight-the-light-he-left-1440p.mp4) |
 | 08 | **Rush — Limelight · The Iris Machine** | 4:21 · 1440p48 · 2026-11-17 | [screening room](https://jez237.com/multimedia/limelight-escape-velocity/) · [MP4](https://media.jez237.com/multimedia/limelight-escape-velocity/limelight-iris-machine-1440p.mp4) |
 | 01 | **Port Richmond — Witte Street** | 3:31 · 1080p30 · 2026-10-10 | [screening room](https://jez237.com/multimedia/port-richmond-title-loop/) · [MP4](https://media.jez237.com/multimedia/port-richmond-title-loop/port-richmond-title-loop-b10-1080p.mp4) |
 | 02 | **Port Richmond — Aramingo Avenue** | 3:29 · 1080p30 · 2026-10-10 | [screening room](https://jez237.com/multimedia/port-richmond-aramingo-walk/) · [MP4](https://media.jez237.com/multimedia/port-richmond-aramingo-walk/port-richmond-aramingo-walk-b13-1080p.mp4) |
